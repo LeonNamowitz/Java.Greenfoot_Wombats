@@ -10,14 +10,5 @@ public class Leaf extends Actor
 {
     public Leaf()
     {
-
     }
-
-// public int leafLocationX ()
-// {
-//     int getX = getX();
-//     //int getY = getY();
-//     return(getX);
-// }
-
 }
